@@ -4,6 +4,8 @@ function add(a, b) {
 
 alert(add(10, 30));
 
+console.log('hello')
+
 function sub(a, b) {
   return a - b;
 }
